@@ -1,2 +1,1 @@
-# Distance-Formula-Math
-Implementing mathematical algorithm
+# mathematical algorithm
